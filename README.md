@@ -1,7 +1,6 @@
-### Hi there 👋
-
-![acageduser's GitHub stats](https://github-readme-stats.vercel.app/api?username=acageduser&show_icons=true)
-
+Be sure to read my written reports!
+- [Security Audit](https://github.com/acageduser/Project-Blacklight-REPORT)
+- [Risk Analysis](https://github.com/acageduser/Wireshark-Risk-Analysis-REPORT)
 <!--
 **acageduser/acageduser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
