@@ -1,5 +1,5 @@
 # Education and Honors
-## Student at 📍[Kutztown University of Pennsylvania](https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/computer-science-and-information-technology.html)
+### Student at 📍[Kutztown University of Pennsylvania](https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/computer-science-and-information-technology.html)
 ✨ Ranked <ins>Top 5</ins> MS Computer Science Program in Pennsylvania ✨
 
 ### Honors
