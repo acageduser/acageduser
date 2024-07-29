@@ -9,7 +9,7 @@
 
 #
 # Key Projects
-### Check out my favourite projects:
+### Check out my favorite projects:
   - [DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization)
     - Cybersecurity guide providing a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board.
   - [CookAI](https://github.com/acageduser/cook-ai)
@@ -24,8 +24,7 @@ My goal is to apply my strengths and values to contribute to an organization's c
 
 #
 # Social
-<p>Made it this far? Clearly, I have caught your interest!</p>
-<p>Connect with me on [Linkedin](www.linkedin.com/in/ryan-livinghouse-872596300) so we can discuss oppertunities.</p>
+Made it this far? Clearly, I have caught your interest! Connect with me on [Linkedin](www.linkedin.com/in/ryan-livinghouse-872596300) so we can discuss opportunities.
 
 <!--
 **acageduser/acageduser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
