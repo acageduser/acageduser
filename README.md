@@ -13,7 +13,7 @@
   - [DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization)
     - Cybersecurity guide providing a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board.
   - [CookAI](https://github.com/acageduser/cook-ai)
-    - Be the cooking envy of your friends and family! Generate a cooking recipe based on <ins>only</ins> the ingredients you have in your fridge! Fully interactive, beginner-chef-friendly web app that transforms your meal prepping skills to expert-level.
+    - Be the cooking envy of your friends and family! Generate a cooking recipe based on <ins>only</ins> the ingredients you have in your fridge! Fully interactive, AI driven, beginner-chef-friendly web app that transforms your meal prepping skills to expert-level.
 
 #
 # Professional Statement:
