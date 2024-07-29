@@ -16,7 +16,7 @@
     - Generate a cooking recipe based on ONLY the ingredients you have in your fridge!
 
 #
-#### Professional Statement:
+# Professional Statement:
 
 I am a dedicated and passionate individual with strong verbal communication, leadership, and problem-solving skills. My core values include promoting security awareness and protecting people, which drive my commitment to the field of cybersecurity. I am particularly interested in ensuring data privacy, a crucial aspect of modern digital security.
 
