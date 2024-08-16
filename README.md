@@ -9,7 +9,6 @@
 
 #
 # Key Projects
-### Check out my favorite projects:
   - [DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization)
     - Let's build security-focused firmware together! This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board.
   - [CookAI](https://github.com/acageduser/cook-ai)
