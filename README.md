@@ -11,6 +11,8 @@
 # Key Projects
   - [DMA-Attack-Firmware-Customization](https://github.com/acageduser/DMA-Attack-Firmware-Customization)
     - Let's build security-focused firmware together! This cybersecurity guide provides a comprehensive approach to hardware obfuscation using LambdaConcept's PCIe Screamer Squirrel DMA board.
+  - [Flow Blockchain Presentation](https://github.com/acageduser/CSC-480-Oral-Presentation---Blockchain-Technologies-Flow)
+    - A comprehensive presentation on the Flow Blockchain, focusing on its unique multi-node architecture, consensus mechanism, and its application in the world of games and NFTs.
   - [CookAI](https://github.com/acageduser/cook-ai)
     - Be the cooking envy of your friends and family! Generate a cooking recipe based on <ins>only</ins> the ingredients you have in your fridge! This fully interactive, AI driven, and beginner-chef-friendly web app will transform your meal prepping skills to an expert-level.
 
