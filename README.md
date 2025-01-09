@@ -3,10 +3,10 @@
 ✨ Ranked <ins>Top 5</ins> MS Computer Science Program in Pennsylvania ✨
 
 ### Honors
-- Kutztown University <ins>Dean's List</ins>, Fall 2022
-- Kutztown University <ins>Dean's List</ins>, Spring 2023
-- Kutztown University <ins>Dean's List</ins>, Fall 2023
-- Kutztown University <ins>Dean's List</ins>, Fall 2024 (4.0 GPA)
+- 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2022
+- 🎖️Kutztown University <ins>Dean's List</ins>, Spring 2023
+- 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2023
+- 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2024 (4.0 GPA)
 
 #
 # Key Projects
