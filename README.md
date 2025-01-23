@@ -1,6 +1,6 @@
 # Education and Honors
 ### Student at 📍[Kutztown University of Pennsylvania](https://www.kutztown.edu/academics/colleges-and-departments/liberal-arts-and-sciences/departments/computer-science-and-information-technology.html)
-✨ Ranked <ins>Top 5</ins> MS Computer Science Program in Pennsylvania ✨
+✨ Ranked <ins>Top 5</ins> MS Computer Science Program in Pennsylvania, [91st in the Nation](https://tfetimes.com/best-computer-science-program-rankings/) ✨
 
 ### Honors
 - 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2022
