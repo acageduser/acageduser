@@ -9,6 +9,7 @@
 - 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2024 (4.0 GPA)
 - 🎖️Kutztown University <ins>Dean's List</ins>, Spring 2025
 - 🎖️Kutztown University <ins>Dean's List</ins>, Fall 2025
+- 🎖️Kutztown University <ins>Dean's List</ins>, Spring 2026 (4.0 GPA)
 
 #
 # Key Projects
